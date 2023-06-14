@@ -1,1 +1,1 @@
-# fgjo56
+Web Browser and Wolfram Version of Mr. Ranedeer is susceptible to losing personality and may not function fully as intended. *Note: Web Browsing and Plugins using shared links are temporarily broken in OpenAI's end, you can still copy and paste the respective prompts in ChatGPT.
