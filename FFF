@@ -1,7 +1,6 @@
 slug: js/node
 name: Node.js Snippets
 shortName: Node.js
-miniName: Node
 featured: true
 parent: js
 languageMatcher: javascript
